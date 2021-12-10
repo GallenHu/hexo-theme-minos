@@ -35,14 +35,14 @@ search:
 toc: false
 
 # Share plugin settings.
-share:
-  type: sharethis
-  install_url:
+# share:
+#   type: sharethis
+#   install_url:
 
 # Comment plugin settings.
-comment:
-  type: disqus
-  shortname:
+# comment:
+#   type: disqus
+#   shortname:
 
 # Other plugins and their settings.
 plugins:
@@ -58,10 +58,10 @@ plugins:
 # is set to the class name of a FontAwesome 5 icon. The `footer_links` below also gives an
 # example of setting plain text links.
 navbar_links:
-  GitHub:
-    icon: fab fa-github
-    url: https://github.com/ppoffice/hexo-theme-minos
+  # GitHub:
+  #   icon: fab fa-github
+  #   url: https://github.com/ppoffice/hexo-theme-minos
 
 # Links at the bottom of the page.
 footer_links:
-  GitHub: https://github.com/ppoffice/hexo-theme-minos
+  # GitHub: https://github.com/ppoffice/hexo-theme-minos
