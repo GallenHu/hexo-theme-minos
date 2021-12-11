@@ -13,15 +13,15 @@ open_graph:
 # It can either be an url to an image or a string if the following option is set.
 # logo:
 #   text: <logo string>
-logo: /images/logo.png
+logo: /images/logo2.png
 
 article:
   # Show word count and estimated reading time.
-  readtime: true
+  readtime: false
   # Code highlight theme, please see https://highlightjs.org/static/demo/
   highlight: atom-one-light
   # Date format: relative | full | relative_full | full_relative
-  date_format: full
+  date_format: relative_full
 
 # Navigation bar menu links.
 menu:
