@@ -1,5 +1,7 @@
+### You can overwrite in main config.
+
 # Website's icon url.
-favicon: https://i.loli.net/2021/07/28/sHrOg4iQvCEpc8n.png
+# favicon: https://i.loli.net/2021/07/28/sHrOg4iQvCEpc8n.png
 
 # Open Graph metadata (https://hexo.io/docs/helpers.html#open-graph)
 open_graph:
@@ -13,7 +15,7 @@ open_graph:
 # It can either be an url to an image or a string if the following option is set.
 # logo:
 #   text: <logo string>
-logo: /images/logo2.png
+# logo: /images/logo2.png
 
 article:
   # Show word count and estimated reading time.
