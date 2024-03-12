@@ -125,6 +125,7 @@ Download & extract or `git clone` Minos from GitHub to your blog's theme folder,
 
 ```shell
 git clone https://github.com/ppoffice/hexo-theme-minos.git themes/minos
+cp themes/minos/_config.example.yml cp themes/minos/_config.yml
 ```
 
 Once started, Minos will remind you of any missing dependencies and configuration files.
